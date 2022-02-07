@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\CSGO-PP.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\CSGO-PP.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\CSGO-PP.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\CSGO-PP.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\CSGO-PP.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\ref\CSGO-PP.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\bin\Debug\net5.0\CSGO-PP.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\ref\CSGO-PP.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Objektorientering\CSGO-PP\CSGO-PP\obj\Debug\net5.0\CSGO-PP.genruntimeconfig.cache
